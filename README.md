@@ -14,7 +14,7 @@ FSM(Finite State Machine) 기반 팩맨 AI 프로젝트
 ## 구현 예정 기능
 
 * [ ] Ghost AI 구현
-* [ ] FSM 설계
+* [x] FSM 설계
 * [ ] Patrol 상태
 * [ ] Chase 상태
 * [ ] Flee 상태
@@ -23,7 +23,7 @@ FSM(Finite State Machine) 기반 팩맨 AI 프로젝트
 
 * [ ] Unity 프로젝트 생성
 * [ ] 맵 제작
-* [ ] AI 설계 진행 중
+* [x] AI 설계 진행 중
 
 ## 학습 목표
 
